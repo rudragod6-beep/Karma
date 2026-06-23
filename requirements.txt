@@ -1,4 +1,4 @@
-# Add your Python dependencies here
-# Example format:
-# package_name==version
-# package_name>=version
+flask==3.0.0
+flask-cors==4.0.0
+python-dotenv==1.0.0
+supabase==2.0.0
